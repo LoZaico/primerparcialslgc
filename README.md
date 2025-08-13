@@ -1,0 +1,2 @@
+# primerparcialslgc
+Primer Parcial Politecnico
